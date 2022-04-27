@@ -1,0 +1,25 @@
+{
+  "name": "desafio-postulantes",
+  "version": "1.0.0",
+  "description": "Con el fin de seleccionar a nuestros 2 developers, tenemos el siguente desafio.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opolinad/desafio-postulantes.git"
+  },
+  "author": "Daniel Andrés López Sabogal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opolinad/desafio-postulantes/issues"
+  },
+  "homepage": "https://github.com/opolinad/desafio-postulantes#readme",
+  "dependencies": {
+    "axios": "^0.27.1",
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  }
+}
